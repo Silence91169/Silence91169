@@ -67,15 +67,6 @@ Actively participating in competitive programming contests with consistent perfo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Silence91169&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silence91169&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-
-</div>
-
 ---
 
 ## 🌱 Currently Learning
